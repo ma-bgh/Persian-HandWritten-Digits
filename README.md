@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # ⚡ Lightweight CNN for Image Classification
 
 ### A compact, CPU-friendly deep learning pipeline with efficient training, online augmentation, and reliable evaluation.
