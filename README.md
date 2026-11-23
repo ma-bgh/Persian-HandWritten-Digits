@@ -144,20 +144,6 @@ flowchart TD
     K --> L[Accuracy, per-class results, confusion matrix]
 ```
 
-## 📁 Suggested Repository Structure
-
-``` text
-.
-├── README.md
-├── data/                 # Input dataset (not necessarily committed)
-├── cache/                # Generated NPZ cache (if configured)
-├── src/                  # Model, data pipeline, and training code
-├── outputs/              # Checkpoints and evaluation outputs
-└── requirements.txt
-```
-
-*Adjust this structure to match the actual files in your repository.*
-
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
@@ -227,13 +213,13 @@ Evaluation**
 ## 📈 Experimental Results
 
 ### Training and Validation Performance
-![Training Curves](results/training_accuracy.png)
+![Training Curves](results/training_accuracy.jpg)
 
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.jpg)
 
 ### Per-Class Accuracy
-![Class Accuracy](results/class_accuracy.png)
+![Class Accuracy](results/class_accuracy.jpg)
 
 The model was trained for **12 epochs** on **150,000 grayscale images**
 (28 × 28 pixels) across 10 classes (`class_0`--`class_9`).
