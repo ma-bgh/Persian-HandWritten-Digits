@@ -187,8 +187,7 @@ Run the training and evaluation entry point provided in the repository.
 python <training_script>.py
 ```
 
-> Replace the example paths and script name above with the actual
-> repository configuration.
+
 
 ## 📌 Reproducibility Notes
 
@@ -221,10 +220,9 @@ If you find this project useful, consider giving the repository a star
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Built with 🧠 Deep Learning · ⚡ Efficient Training · 📊 Careful
 Evaluation**
-:::
 
 ## 📈 Experimental Results
 
