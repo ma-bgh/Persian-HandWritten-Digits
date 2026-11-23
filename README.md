@@ -212,15 +212,6 @@ Evaluation**
 
 ## 📈 Experimental Results
 
-### Training and Validation Performance
-![Training Curves](results/training_accuracy.jpg)
-
-### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.jpg)
-
-### Per-Class Accuracy
-![Class Accuracy](results/Per-Class Accuracy.jpg)
-
 The model was trained for **12 epochs** on **150,000 grayscale images**
 (28 × 28 pixels) across 10 classes (`class_0`--`class_9`).
 
